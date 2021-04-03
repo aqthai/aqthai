@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aqthai
 - 👀 I’m interested in things that can be done with a computer.
 - 🌱 I’m currently learning music theory, 3D modeling, and Unity.
-- 💞️ I’m looking to collaborate on art projects.
+- 💞️ I’m looking to collaborate on HackerRank.
 - 📫 How to reach me best is through email. alvinquanthai@gmail.com
 
 <!---
