@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aqthai
-- 👀 I’m interested in things that can be done with a computer.
-- 🌱 I’m currently learning web development and effective communication.
-- 💞️ I’m looking to collaborate on all sorts of projects.
+- 👀 I’m interested in a full time job.
+- 🌱 I’m currently learning printmaking.
+- 💞️ I’m looking to improve my Chinese.
 - 📫 How to reach me best is through email. alvinquanthai@gmail.com
 
 <!---
