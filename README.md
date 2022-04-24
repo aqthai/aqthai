@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aqthai
 - 👀 I’m interested in a full time job.
-- 🌱 I’m currently learning printmaking.
+- 🌱 I’m currently learning Cantonese.
 - 💞️ I’m looking to improve my Chinese.
 - 📫 How to reach me best is through email. alvinquanthai@gmail.com
 
