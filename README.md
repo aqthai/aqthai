@@ -26,7 +26,6 @@ Hello I'm @aqthai (he/him)
 - [ ] Calendar
 - [ ] Whitespace Broadcasting
 - [ ] Cowsay "move"
-~like keep moving~
 
 📫 The best way to start reaching me best is through email. alvinquanthai@gmail.com
 
