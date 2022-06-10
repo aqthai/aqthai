@@ -1,8 +1,6 @@
 # Welcome
 ---
 Hello I'm @aqthai (he/him)
-and I have a double major in Applied Computing and Interdisciplinary Arts
-~~*so I don't have to use it*~~
 
 👀 Monitor my activity on
 [HackerRank](https://www.hackerrank.com/alvinquanthai)
@@ -14,7 +12,7 @@ and I have a double major in Applied Computing and Interdisciplinary Arts
 | ----------- | ----------- |
 | Python | Proficient |
 | Java | Intermediate |
-| NodeJS | Intermediate |
+| NodeJS | Intermediate |                   
 | Linux | Good |
 | SQL | Proficient |
 
@@ -28,7 +26,15 @@ and I have a double major in Applied Computing and Interdisciplinary Arts
 ### Things To Try
 - [ ] Public Calendar
 - [ ] Whitespace Broadcasting
-- [ ] Cowsay "move"
+
+ ______
+< move >
+ ------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 
 📫 The best way to start reaching me best is through email. alvinquanthai@gmail.com
 
