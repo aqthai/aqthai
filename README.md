@@ -1,8 +1,8 @@
 # Welcome
 ---
 Hello I'm @aqthai (he/him)
-: studied Applied Computing and Interdisciplinary Arts
-~~so I don't have to use it~~
+and I have studied ==Applied Computing== and ==Interdisciplinary Arts==
+~~*so I don't have to use it*~~
 
 👀 Monitor my activity on
 [HackerRank](https://www.hackerrank.com/alvinquanthai)
@@ -26,7 +26,7 @@ Hello I'm @aqthai (he/him)
 | Vietnamese | Beginner |
 
 ### Things To Try
-- [ ] Calendar for others to see
+- [ ] Public Calendar
 - [ ] Whitespace Broadcasting
 - [ ] Cowsay "move"
 
