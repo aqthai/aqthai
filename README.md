@@ -1,7 +1,7 @@
 # Welcome
 ---
 Hello I'm @aqthai (he/him)
-and I have studied ==Applied Computing== and ==Interdisciplinary Arts==
+and I have a double major in Applied Computing and Interdisciplinary Arts
 ~~*so I don't have to use it*~~
 
 👀 Monitor my activity on
