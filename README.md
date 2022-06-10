@@ -1,13 +1,14 @@
 # Welcome
 ---
-@aqthai
-: someone who work with the least technology possible,
+Hello I'm @aqthai (he/him)
+: studied Applied Computing and Interdisciplinary Arts
+~~so I don't have to use it~~
 
-👀 but is interested in what computers can do.
+👀 Monitor my activity on
 [HackerRank](https://www.hackerrank.com/alvinquanthai)
 
 🌱 I’m currently running on solar power,
-💞️ and looking for time to write.
+💞️ and looking for time to write intentionally.
 
 | Language | Proficiency |
 | ----------- | ----------- |
@@ -21,12 +22,13 @@
 | Cantonese | Casual |
 | Vietnamese | Intermediate |
 
-## App Tasks To Do
+### App Tasks To Do
 - [ ] Calendar
-- [ ] Whitespace Radio
+- [ ] Whitespace Broadcasting
 - [ ] Cowsay "move"
+~like keep moving~
 
-📫 How to reach me best is through email. alvinquanthai@gmail.com
+📫 The best way to start reaching me best is through email. alvinquanthai@gmail.com
 
 <!---
 aqthai/aqthai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
