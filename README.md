@@ -20,8 +20,8 @@ Hello I'm @aqthai (he/him)
 
 | Language | Proficiency |
 | ----------- | ----------- |
-| Japanese | Lazy |
-| Spanish | Serious |
+| Japanese | Beginner |
+| Spanish | Professional |
 | Cantonese | Casual |
 | Vietnamese | Beginner |
 
