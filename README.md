@@ -17,13 +17,16 @@ Hello I'm @aqthai (he/him)
 | NodeJS | Intermediate |
 | Linux | Good |
 | SQL | Proficient |
-| Japanese | Elementary |
+
+| Language | Proficiency |
+| ----------- | ----------- |
+| Japanese | Lazy |
 | Spanish | Serious |
 | Cantonese | Casual |
-| Vietnamese | Intermediate |
+| Vietnamese | Beginner |
 
-### App Tasks To Do
-- [ ] Calendar
+### Things To Try
+- [ ] Calendar for others to see
 - [ ] Whitespace Broadcasting
 - [ ] Cowsay "move"
 
