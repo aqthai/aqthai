@@ -27,6 +27,9 @@ Hello I'm @aqthai (he/him)
 - [ ] Public Calendar
 - [ ] Whitespace Broadcasting
 
+
+📫 The best way to start reaching me best is through email. alvinquanthai@gmail.com
+
  ______
 < move >
  ------
@@ -35,8 +38,6 @@ Hello I'm @aqthai (he/him)
             (__)\       )\/\
                 ||----w |
                 ||     ||
-
-📫 The best way to start reaching me best is through email. alvinquanthai@gmail.com
 
 <!---
 aqthai/aqthai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
