@@ -8,7 +8,7 @@ Hello I'm @aqthai (he/him)
 [HackerRank](https://www.hackerrank.com/alvinquanthai)
 
 🌱 I’m currently running on solar power,
-💞️ and looking for time to write intentionally.
+✏️ and looking for time to write.
 
 | Language | Proficiency |
 | ----------- | ----------- |
