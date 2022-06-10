@@ -1,7 +1,9 @@
+# Welcome
+---
 - 👋 Hi, I’m @aqthai
-- 👀 I’m interested in Java apps.
-- 🌱 I’m currently learning to use solar energy.
-- 💞️ I’m looking to improve my Chinese.
+- 👀 I’m interested in computers.
+- 🌱 I’m currently using solar energy.
+- 💞️ I’m looking for time to write.
 - 📫 How to reach me best is through email. alvinquanthai@gmail.com
 
 <!---
