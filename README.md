@@ -3,7 +3,7 @@
 Hello I'm @aqthai (he/him)
 
 🌱 I’m currently running on solar power,
-✏️ and making time to write effectively.
+and making time to write effectively. ✏️
 
 | Language | Proficiency |
 | ----------- | ----------- |
