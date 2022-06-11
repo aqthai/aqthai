@@ -2,15 +2,12 @@
 ---
 Hello I'm @aqthai (he/him)
 
-👀 Monitor my activity on
-[HackerRank](https://www.hackerrank.com/alvinquanthai)
-
 🌱 I’m currently running on solar power,
 ✏️ and making time to write effectively.
 
 | Language | Proficiency |
 | ----------- | ----------- |
-| Python | Proficient |
+| Python | Intermediate |
 | Java | Intermediate |
 | NodeJS | Intermediate |                   
 | Linux | Good |
