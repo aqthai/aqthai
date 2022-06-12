@@ -15,7 +15,7 @@ This is how I feel about these languages,
 | Linux | Good |
 | SQL | Proficient |
 
-but here is what [HackerRank] (https://www.hackerrank.com/alvinquanthai) says.
+but here is what [HackerRank](https://www.hackerrank.com/alvinquanthai) says.
 
 | Language | Proficiency |
 | ----------- | ----------- |
