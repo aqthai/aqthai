@@ -24,6 +24,8 @@ but clicking [here](https://www.hackerrank.com/alvinquanthai) will tell what Hac
 | Cantonese | Casual |
 | Vietnamese | Beginner |
 
+[LinkedIn](https://www.linkedin.com/in/alvin-thai-b91ba3127/)
+
 ### Things To Try
 - [ ] Public Calendar
 - [ ] Whitespace Broadcasting
