@@ -32,7 +32,7 @@ but clicking [here](https://www.hackerrank.com/alvinquanthai) will tell what Hac
 📫 The best way to start reaching me best is through email. alvinquanthai@gmail.com
 
  ______
-< move >
+< moo >
  ------
         \   ^__^
          \  (oo)\_______
