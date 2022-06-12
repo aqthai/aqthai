@@ -15,9 +15,9 @@ This is how I feel about these languages,
 | Linux | Good |
 | SQL | Proficient |
 
-but here is what [HackerRank](https://www.hackerrank.com/alvinquanthai) says.
+but clicking [here](https://www.hackerrank.com/alvinquanthai) will tell what HackerRank says.
 
-| Language | Proficiency |
+| Spoken Language | Proficiency |
 | ----------- | ----------- |
 | Japanese | Beginner |
 | Spanish | Professional |
