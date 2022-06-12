@@ -5,6 +5,8 @@ Hello I'm @aqthai (he/him)
 🌱 I’m currently running on solar power,
 and making time to write effectively. ✏️
 
+This is how I feel about these languages,
+
 | Language | Proficiency |
 | ----------- | ----------- |
 | Python | Intermediate |
@@ -12,6 +14,8 @@ and making time to write effectively. ✏️
 | NodeJS | Intermediate |                   
 | Linux | Good |
 | SQL | Proficient |
+
+but here is what [HackerRank] (https://www.hackerrank.com/alvinquanthai) says.
 
 | Language | Proficiency |
 | ----------- | ----------- |
