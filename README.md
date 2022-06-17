@@ -17,7 +17,7 @@ This is how I feel about these languages,
 
 but clicking [here](https://www.hackerrank.com/alvinquanthai) will tell what HackerRank says.
 
-[Printmaking](https://aqthai.github.io/print-protest/) has further my involvement in wildlife reservation.  It expresses strong feelings about a topic that may carry onto data science.
+[Printmaking](https://aqthai.github.io/print-protest/) has further my involvement in topics that others are passionate about.
 
 | Spoken Language | Proficiency |
 | ----------- | ----------- |
