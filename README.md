@@ -5,7 +5,7 @@ Hello I'm @aqthai (he/him)
 🌱 I’m currently running on solar power,
 and making time to write effectively. ✏️
 
-This is how I feel about these languages,
+Here is how I feel about these languages,
 
 | Language | Proficiency |
 | ----------- | ----------- |
