@@ -8,7 +8,7 @@ Here is how i'd rate myself with programming languages,
 
 | Language | Proficiency |
 | ----------- | ----------- |
-| Python | Expert |
+| Python | Proficient |
 | Java | Intermediate |
 | NodeJS | Intermediate |                   
 | Linux | Good |
