@@ -2,22 +2,23 @@
 ---
 Hello I'm @aqthai (he/him)
 
-🌱 I’m currently running on solar power,
-and making time to write effectively. ✏️
+🌱 and I enjoy making time to write effectively. ✏️
 
-Here is how I feel about these languages,
+Here is how i'd rate myself with programming languages,
 
 | Language | Proficiency |
 | ----------- | ----------- |
-| Python | Intermediate |
+| Python | Expert |
 | Java | Intermediate |
 | NodeJS | Intermediate |                   
 | Linux | Good |
-| SQL | Proficient |
+| SQL | Intermediate |
 
-but clicking [here](https://www.hackerrank.com/alvinquanthai) will tell what HackerRank says.
+and my [hackerrank](https://www.hackerrank.com/alvinquanthai) profile.
 
-[Printmaking](https://aqthai.github.io/print-protest/) has further my involvement in topics that others are passionate about.
+### Projects
+- [Printmaking](https://aqthai.github.io/print-protest/) has further my involvement in topics that others are passionate about.
+- [A dashboard](https://github.com/aqthai/malaria_dashboard) can visualize aspects of business.
 
 | Spoken Language | Proficiency |
 | ----------- | ----------- |
@@ -25,11 +26,6 @@ but clicking [here](https://www.hackerrank.com/alvinquanthai) will tell what Hac
 | Spanish | Professional |
 | Cantonese | Casual |
 | Vietnamese | Beginner |
-
-### Things To Try
-- [ ] Public Calendar
-- [ ] Whitespace Broadcasting
-
 
 📫 The best way to start reaching me best is through email. alvinquanthai@gmail.com
 
