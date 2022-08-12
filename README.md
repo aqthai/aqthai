@@ -19,6 +19,7 @@ and me on [hackerrank](https://www.hackerrank.com/alvinquanthai).
 ### Projects
 - [Printmaking](https://aqthai.github.io/print-protest/) has further my involvement in topics that others are passionate about.
 - [A dashboard](https://github.com/aqthai/malaria_dashboard) can visualize aspects of business.
+- [Recommend](https://github.com/aqthai/spotify_analyzer) songs with Spotify's API.
 
 | Spoken Language | Proficiency |
 | ----------- | ----------- |
