@@ -29,7 +29,14 @@ and me on [hackerrank](https://www.hackerrank.com/alvinquanthai).
 | Vietnamese | Beginner |
 
 📫 The best way to start reaching me best is through email. alvinquanthai@gmail.com
-
+ ______
+< Until Next Time >
+ ------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 
 <!---
 aqthai/aqthai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
