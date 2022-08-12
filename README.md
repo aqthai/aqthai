@@ -14,7 +14,7 @@ Here is how i'd rate myself with programming languages,
 | Linux | Good |
 | SQL | Intermediate |
 
-and my [hackerrank](https://www.hackerrank.com/alvinquanthai) profile.
+and me on [hackerrank](https://www.hackerrank.com/alvinquanthai).
 
 ### Projects
 - [Printmaking](https://aqthai.github.io/print-protest/) has further my involvement in topics that others are passionate about.
