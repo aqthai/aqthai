@@ -20,6 +20,7 @@ Here are some languages I can use
 - [Printmaking](https://aqthai.github.io/print-protest/) has further my involvement in topics that others are passionate about.
 - [A dashboard](https://github.com/aqthai/malaria_dashboard) can visualize aspects of business.
 - [Recommend](https://github.com/aqthai/spotify_analyzer) songs with Spotify's API.
+- [Process](https://github.com/aqthai/credit_card_data_visualization) big data with Apache Spark.
 
 | Spoken Language | Proficiency |
 | ----------- | ----------- |
