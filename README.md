@@ -30,10 +30,8 @@ Here are some languages I can use
 | ----------- | ----------- |
 | Japanese | Beginner |
 | Spanish | Professional |
-| Cantonese | Casual |
+| Cantonese | Upper Beginner |
 | Vietnamese | Beginner |
-
-📫 The best way to start reaching me best is through email. alvinquanthai@gmail.com
 
 <!---
 aqthai/aqthai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
