@@ -29,9 +29,10 @@ Here are some languages I can use
 | Spoken Language | Proficiency |
 | ----------- | ----------- |
 | Japanese | Beginner |
-| Spanish | Professional |
+| Spanish | Intermediate |
 | Cantonese | Upper Beginner |
 | Vietnamese | Beginner |
+| Thai | Beginner |
 
 <!---
 aqthai/aqthai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
