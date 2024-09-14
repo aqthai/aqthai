@@ -21,8 +21,8 @@ Here are some languages I can use
 [hackerrank](https://www.hackerrank.com/alvinquanthai).
 
 ### Projects
-- [Printmaking](https://aqthai.github.io/print-protest/) samples on a website I've built.
-- [A dashboard](https://github.com/aqthai/malaria_dashboard) can visualize aspects of business.
+- [Post](https://aqthai.github.io/print-protest/) samples on your website.
+- [Visualize](https://github.com/aqthai/malaria_dashboard) aspects with a dashboard.
 - [Recommend](https://github.com/aqthai/spotify_analyzer) songs with Spotify's API.
 - [Process](https://github.com/aqthai/credit_card_data_visualization) big data with Apache Spark.
 
